@@ -1,12 +1,13 @@
-## Hi there 👋
+# Aditya OS
 
-<!--
+Aditya OS is your personal virtual operating system where you can play games, listen musics, watch videos, draw arts and much more!
+Available for Windows, Macintosh, Linux, Flash (Special & cancelled build) & Java (Special & cancelled build).
 
-**Here are some ideas to get you started:**
+### Aditya OS Flash
+Aditya OS older version built for Flash. Requires Adobe Flash Player.
+The final update of Aditya OS Flash (Ω, Omega, v1.2.0) was made on Aditya OS v1.4.3 framework.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Aditya OS Java
+An Aditya OS build with minimal features built for Java. Requires Java Player or JRE (Java Runtime Environment).
+The final update of Aditya OS Java (Π, Pi, v1.2.0) was added to Aditya OS B (Beta, v3.0.0).
+
